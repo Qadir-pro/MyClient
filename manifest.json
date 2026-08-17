@@ -1,5 +1,71 @@
 {
   "version": "1.0.0",
   "minecraft": "26.2",
-  "modification": "fabric"
+  "modification": "fabric",
+  "files": [
+    {
+      "name": "almanac-fabric-26.2-1.26.7.3.jar",
+      "sha256": "32ee09cf26d435946370579a1fcc0db758e4eee62346c1d77f0f741daf0d800a"
+    },
+    {
+      "name": "Clumps-fabric-26.2-26.2.1.jar",
+      "sha256": "dc9544190abfb65a3c9ddc5dad1523c9dfc5a732344f528d908b950894398e8c"
+    },
+    {
+      "name": "debugify-26.2.0.0.jar",
+      "sha256": "f972d4d63ec9bd3f5464f1e64259dd47c8f9e8c907b3dfb680c8b4f3c032bae9"
+    },
+    {
+      "name": "entityculling-fabric-1.10.5-mc26.2.jar",
+      "sha256": "05a36decbb1bbb0f785d974068c0d9c191975e0d8d637e1eb1f2f6bb84eab05a"
+    },
+    {
+      "name": "fabric-api-0.157.0+26.2.jar",
+      "sha256": "acb7dc90a0430519c49548074d3fbf6fd81d13063f08f0af344b2a6b08a42620"
+    },
+    {
+      "name": "fabric-language-kotlin-1.13.13+kotlin.2.4.10.jar",
+      "sha256": "34ccdacf13bb9351fe43ce61912c2e09b72364e43e787d36ba3d2d04dec75a52"
+    },
+    {
+      "name": "ferritecore-9.0.0-fabric.jar",
+      "sha256": "213966c72ed967acc7392beb28a866fba301ff56b9976c2e7801c2db7de6bf22"
+    },
+    {
+      "name": "ImmediatelyFast-Fabric-1.16.3+26.2.jar",
+      "sha256": "1769ad16dc590916fb6b014342f06b7691d8db589d8141ca67a8fb21606beb4e"
+    },
+    {
+      "name": "iris-fabric-1.11.2+mc26.2.jar",
+      "sha256": "df0e2ccddaea17b191eda32b21c979e131bc9d4ef4f831113b50b461fc4a3804"
+    },
+    {
+      "name": "language-reload-1.7.7+26.2.jar",
+      "sha256": "2534bd600e66868c7a4ea120b3cc1b7c89c5293fe24f8e5184822d4474fc05c0"
+    },
+    {
+      "name": "letmedespawn-fabric-26.2-1.26.7.3.jar",
+      "sha256": "c024a21ac6e78dc1a43a17cf11450dde430c8a90b743b621519d1276647b0584"
+    },
+    {
+      "name": "lithium-fabric-0.25.3+mc26.2.jar",
+      "sha256": "fdde92e238e8075f89ad7f701f2a3d5854af88ba9a67657184a4407b104ac563"
+    },
+    {
+      "name": "sodium-extra-fabric-0.9.3+mc26.2.jar",
+      "sha256": "cdef04ad810aeeefab4bfefbc7bc4859b06a2be651d5dab7e055f7e661f84a50"
+    },
+    {
+      "name": "sodium-fabric-0.9.2-alpha.4+mc26.2.jar",
+      "sha256": "a6d1ced177a1c57147e8c1c8043650d5f93e1f2824c9952f3fb67ae05633a0a7"
+    },
+    {
+      "name": "spark-1.10.173-fabric.jar",
+      "sha256": "076ed2288db2a05ca6e8061615e1a31d1912cf1b10665e4f09a1794d5db99433"
+    },
+    {
+      "name": "yet_another_config_lib_v3-3.9.6+26.2-fabric.jar",
+      "sha256": "829396c3b3e7d1801ae0e9e2921d0454c5a3078afdb6c6dda6b3d1819dfa0e3f"
+    }
+  ]
 }
