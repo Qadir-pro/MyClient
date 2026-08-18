@@ -66,6 +66,14 @@
     {
       "name": "yet_another_config_lib_v3-3.9.6+26.2-fabric.jar",
       "sha256": "829396c3b3e7d1801ae0e9e2921d0454c5a3078afdb6c6dda6b3d1819dfa0e3f"
+    },
+    {
+      "name": "placeholder-api-3.1.0-beta.1+26.2.jar",
+      "sha256": "c2ca2b5c397a0c198a32e7af68d2d0a011bc2c7baeae5cffd3996efd65c5069e"
+    },
+    {
+      "name": "modmenu-20.0.1.jar",
+      "sha256": "81bfbca06012c57c74949072f2ffaad06360badee4d00dc59bfaeac80dd24bd8"
     }
   ]
 }
